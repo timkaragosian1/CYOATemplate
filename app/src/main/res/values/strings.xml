@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstComposeCYOA</string>
+
+    <string name="game_play_screen_enum">Adventure</string>
+    <string name="title_screen_enum">First CYOA Adventure</string>
+    <string name="game_over_screen_enum">Game Over</string>
+</resources>
