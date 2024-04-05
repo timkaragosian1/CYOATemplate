@@ -1,4 +1,8 @@
 # CYOA (Choose You Own Adventure) Template
+
+## Quick Start
+This can be opened, built, and run after cloning the repository with Android Studio.
+
 ### Introduction
 Started on a journey to re-learn Android development in 2023. I began by learning Kotlin based off my previous knowledge of Android Java. From there, I decided to start building some things to learn. This project was my first "real" challenege in the sense that I took an existing, simple, and interesting project and modernized it. I was inspired by the work https://www.youtube.com/watch?v=_NRVn2JJ1JM&list=PL_QPQmz5C6WVWGhGVlT25UGYFUt7k9DGX in both Java and Kotlin. I took this project and remade it using Jetpack Compose and wanted to then expand upon the concepts and thinking to a full game in a future project.
 
